@@ -594,47 +594,68 @@ export default function ElliesAdventuresResearch() {
                   </ul>
                 </div>
 
-                <div className="bg-purple-50 p-6 rounded-lg">
-                  <h4 className="text-xl font-semibold mb-4 text-purple-800">4. Cognitive and Verbal Skills Development</h4>
+                <div className="bg-orange-50 p-6 rounded-lg">
+                  <h4 className="text-xl font-semibold mb-4 text-orange-800">
+                    4. Cognitive and Verbal Skills Development
+                  </h4>
                   <p className="text-gray-700 mb-4">
-                    Designed to enhance cognitive and verbal abilities in children with Autism Spectrum Disorder through interactive tasks and deep learning models:
+                    Designed to enhance cognitive and verbal abilities in
+                    children with Autism Spectrum Disorder through interactive
+                    tasks and deep learning models:
                   </p>
                   <ul className="space-y-2">
                     <li className="flex items-start">
-                      <span className="w-2 h-2 bg-purple-500 rounded-full mt-2 mr-3 flex-shrink-0"></span>
-                      <span>Letter formation practice using a convolutional neural network (CNN) to evaluate stroke shape and sequence</span>
+                      <span className="w-2 h-2 bg-orange-500 rounded-full mt-2 mr-3 flex-shrink-0"></span>
+                      <span>
+                        Letter formation practice using a convolutional neural
+                        network (CNN) to evaluate stroke shape and sequence
+                      </span>
                     </li>
                     <li className="flex items-start">
-                      <span className="w-2 h-2 bg-purple-500 rounded-full mt-2 mr-3 flex-shrink-0"></span>
-                      <span>Shape-based object construction game leveraging an image similarity deep learning model to assess accuracy of assembly</span>
+                      <span className="w-2 h-2 bg-orange-500 rounded-full mt-2 mr-3 flex-shrink-0"></span>
+                      <span>
+                        Shape-based object construction game leveraging an image
+                        similarity deep learning model to assess accuracy of
+                        assembly
+                      </span>
                     </li>
                   </ul>
                 </div>
 
-                <div className="bg-purple-50 p-6 rounded-lg">
-                  <h4 className="text-xl font-semibold mb-4 text-purple-800">5. Emotion Skills Development</h4>
+                <div className="bg-pink-50 p-6 rounded-lg">
+                  <h4 className="text-xl font-semibold mb-4 text-pink-800">
+                    5. Emotion Skills Development
+                  </h4>
                   <p className="text-gray-700 mb-4">
-                    Aimed at helping children with Autism Spectrum Disorder express and recognize emotions across varied social contexts. The system integrates deep learning and behavioral tracking to support emotional development:
+                    Aimed at helping children with Autism Spectrum Disorder
+                    express and recognize emotions across varied social
+                    contexts. The system integrates deep learning and behavioral
+                    tracking to support emotional development:
                   </p>
                   <ul className="space-y-2">
                     <li className="flex items-start">
-                      <span className="w-2 h-2 bg-purple-500 rounded-full mt-2 mr-3 flex-shrink-0"></span>
-                      <span>Facial emotion recognition using a ResNet50-based model trained on DISFA+ and FER datasets</span>
+                      <span className="w-2 h-2 bg-pink-500 rounded-full mt-2 mr-3 flex-shrink-0"></span>
+                      <span>
+                        Facial emotion recognition using a ResNet50-based model
+                        trained on DISFA+ and FER datasets
+                      </span>
                     </li>
                     <li className="flex items-start">
-                      <span className="w-2 h-2 bg-purple-500 rounded-full mt-2 mr-3 flex-shrink-0"></span>
-                      <span>Real-time attention tracking to ensure engagement during emotion recognition and expression tasks</span>
+                      <span className="w-2 h-2 bg-pink-500 rounded-full mt-2 mr-3 flex-shrink-0"></span>
+                      <span>
+                        Real-time attention tracking to ensure engagement during
+                        emotion recognition and expression tasks
+                      </span>
                     </li>
                     <li className="flex items-start">
-                      <span className="w-2 h-2 bg-purple-500 rounded-full mt-2 mr-3 flex-shrink-0"></span>
-                      <span>Progress monitoring with personalized feedback and rewards to reinforce emotional learning outcomes</span>
+                      <span className="w-2 h-2 bg-pink-500 rounded-full mt-2 mr-3 flex-shrink-0"></span>
+                      <span>
+                        Progress monitoring with personalized feedback and
+                        rewards to reinforce emotional learning outcomes
+                      </span>
                     </li>
                   </ul>
                 </div>
-
-
-
-                
               </div>
 
               <div className="mt-8 p-6 bg-gradient-to-r from-purple-100 to-blue-100 rounded-lg">
