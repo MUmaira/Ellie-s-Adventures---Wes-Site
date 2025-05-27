@@ -450,6 +450,26 @@ export default function ElliesAdventuresResearch() {
                     </li>
                   </ul>
                 </div>
+
+                <div className="bg-purple-50 p-6 rounded-lg">
+  <h4 className="text-xl font-semibold mb-4 text-purple-800">4. Cognitive and Verbal Skills Development</h4>
+  <p className="text-gray-700 mb-4">
+    Designed to enhance cognitive and verbal abilities in children with Autism Spectrum Disorder through interactive tasks and deep learning models:
+  </p>
+  <ul className="space-y-2">
+    <li className="flex items-start">
+      <span className="w-2 h-2 bg-purple-500 rounded-full mt-2 mr-3 flex-shrink-0"></span>
+      <span>Letter formation practice using a convolutional neural network (CNN) to evaluate stroke shape and sequence</span>
+    </li>
+    <li className="flex items-start">
+      <span className="w-2 h-2 bg-purple-500 rounded-full mt-2 mr-3 flex-shrink-0"></span>
+      <span>Shape-based object construction game leveraging an image similarity deep learning model to assess accuracy of assembly</span>
+    </li>
+  </ul>
+</div>
+
+
+                
               </div>
 
               <div className="mt-8 p-6 bg-gradient-to-r from-purple-100 to-blue-100 rounded-lg">
