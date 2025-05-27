@@ -61,34 +61,6 @@ Our main objective is to bridge the gap between home and therapy centers, ensuri
 - **Google Cloud Platform** - Cloud infrastructure
 - **Digital Ocean** - Additional hosting services
 
-## 📁 Project Structure
-
-\`\`\`
-ellies-adventures-research/
-├── app/
-│   ├── globals.css
-│   ├── layout.tsx
-│   └── page.tsx
-├── components/
-│   └── ui/
-│       ├── button.tsx
-│       ├── card.tsx
-│       ├── input.tsx
-│       └── ...
-├── public/
-│   └── images/
-│       ├── team/
-│       ├── app/
-│       ├── technologies/
-│       └── documents/
-├── lib/
-│   └── utils.ts
-├── README.md
-├── package.json
-├── tailwind.config.ts
-└── next.config.js
-\`\`\`
-
 ## 🚀 Getting Started
 
 ### Prerequisites
