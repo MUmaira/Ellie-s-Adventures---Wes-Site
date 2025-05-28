@@ -182,7 +182,7 @@ export default function ElliesAdventuresResearch() {
     {
       name: "Dr. Kalpani Manathunga",
       role: "Supervisor",
-      title: "Department Head - Computer Systems and Software Engineering",
+      title: "Department Head - Computer Science and Software Engineering",
       organization: "SLIIT",
       type: "supervisor",
       photo: "/team/kalpani.jpg",
